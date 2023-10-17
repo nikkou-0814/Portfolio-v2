@@ -183,7 +183,7 @@
   position:absolute;
   animation: progress 1.5s normal;
   animation-fill-mode: forwards;
-  width: 96%
+  width: 100%
 }
 
 .task1{
@@ -346,7 +346,7 @@
   position:absolute;
   animation: progress 1.5s normal;
   animation-fill-mode: forwards;
-  width: 2%;
+  width: 89%;
 }
 
 .viewprogress{
